@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Capteur d\'humidité</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView1">Acquisition... Appuyez sur start</string>
+    <string name="startButton">Start</string>
+    <string name="stopButton">Stop</string>
+    <string name="setButton">Set</string>
+
+</resources>
